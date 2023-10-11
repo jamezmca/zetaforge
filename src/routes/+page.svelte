@@ -92,9 +92,9 @@
                 > for rapid development and deployment of advanced safe AI solutions
             </p>
             <a
-                href="https://forms.gle/mspGN31ZBuKY98Kx9"
+                href="https://forms.gle/8dJpYFuLABwpJiWYA"
                 target="_blank"
-                class="px-5 py-3 sm:px-6 sm:py-4 md:px-8 relative group text-lg sm:text-xl mx-auto xl:ml-0 bg-indigo-800 hover:bg-indigo-900 duration-200"
+                class="px-5 py-3 cursor-pointer sm:px-6 sm:py-4 md:px-8 relative group text-lg sm:text-xl mx-auto xl:ml-0 bg-indigo-800 hover:bg-indigo-900 duration-200"
             >
                 <p class="headerFont">Get started today</p>
             </a>
@@ -173,9 +173,9 @@
             <p class="opacity-80 italic headerFont">
                 To be notified when ZetaForge™ is publically available, and for
                 development updates, <a
-                    href="https://forms.gle/mspGN31ZBuKY98Kx9"
+                    href="https://forms.gle/8dJpYFuLABwpJiWYA"
                     target="_blank"
-                    ><span class="text-indigo-400 headerFont"
+                    ><span class="cursor-pointer text-indigo-400 headerFont"
                         >subscribe to the newsletter &rarr;</span
                     ></a
                 >
@@ -263,9 +263,9 @@
         </div>
     </section>
     <a
-        href="https://forms.gle/mspGN31ZBuKY98Kx9"
+        href="https://forms.gle/8dJpYFuLABwpJiWYA"
         target="_blank"
-        class="px-5 py-3 sm:px-6 sm:py-4 md:px-8 relative group text-lg sm:text-xl mx-auto bg-indigo-800 hover:bg-indigo-900 duration-200"
+        class="px-5 py-3 cursor-pointer sm:px-6 sm:py-4 md:px-8 relative group text-lg sm:text-xl mx-auto bg-indigo-800 hover:bg-indigo-900 duration-200"
     >
         <p class="headerFont">Get started today</p>
     </a>
