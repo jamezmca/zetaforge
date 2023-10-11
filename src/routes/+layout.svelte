@@ -37,21 +37,35 @@
         <div
             class="flex items-start mx-auto gap-4 text-xl sm:text-2xl md:text-3xl"
         >
-            <a target="_blank" class="text-slate-300">
+            <a
+                href="https://www.linkedin.com/company/zetane/mycompany/"
+                target="_blank"
+                class="text-slate-300 cursor-pointer"
+            >
                 <i class="fa-brands fa-linkedin-in" />
             </a>
-            <a target="_blank" class="text-slate-300">
+            <!-- <a target="_blank" class="text-slate-300">
                 <i class="fa-brands fa-youtube" />
-            </a>
-            <a target="_blank" class="text-slate-300">
-                <i class="fa-brands fa-discord" />
+            </a> -->
+            <a
+                href="https://www.zetane.com"
+                target="_blank"
+                class="text-slate-300 cursor-pointer"
+            >
+                <i class="fa-solid fa-home" />
             </a>
         </div>
         <div class="flex flex-col gap-2 text-center sm:gap-4 mx-auto">
-            <a target="_blank" class="jetbrains py-1 text-center md:text-left"
+            <a
+                href="https://www.zetane.com"
+                target="_blank"
+                class="jetbrains py-1 text-center md:text-left"
                 ><p>Zetane Product Suite &rarr;</p></a
             >
-            <a target="_blank" class="jetbrains py-1 text-center md:text-left"
+            <a
+                href="https://www.zetane.com"
+                target="_blank"
+                class="jetbrains py-1 text-center md:text-left"
                 ><p>Contact us &rarr;</p></a
             >
         </div>
