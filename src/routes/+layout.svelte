@@ -15,10 +15,13 @@
             <a class="" href="#about">
                 <p class="headerFont px-4">About</p>
             </a>
-            <button class="px-5 py-2 relative group border-[1.5px] border-solid border-indigo-700 duration-200 hover:border-indigo-800">
-               
+            <a
+                href="https://forms.gle/mspGN31ZBuKY98Kx9"
+                target="_blank"
+                class="px-5 py-2 relative group border-[1.5px] border-solid border-indigo-700 duration-200 hover:border-indigo-800"
+            >
                 <p class="headerFont">Subscribe</p>
-            </button>
+            </a>
         </div>
     </div>
 </header>

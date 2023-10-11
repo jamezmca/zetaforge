@@ -91,11 +91,13 @@
                     >AI platform</mark
                 > for rapid development and deployment of advanced safe AI solutions
             </p>
-            <button
+            <a
+                href="https://forms.gle/mspGN31ZBuKY98Kx9"
+                target="_blank"
                 class="px-5 py-3 sm:px-6 sm:py-4 md:px-8 relative group text-lg sm:text-xl mx-auto xl:ml-0 bg-indigo-800 hover:bg-indigo-900 duration-200"
             >
                 <p class="headerFont">Get started today</p>
-            </button>
+            </a>
         </div>
         <div
             class="grid place-items-center xl:col-span-2 w-full max-w-[800px] mx-auto xl:max-w-full"
@@ -171,7 +173,7 @@
             <p class="opacity-80 italic headerFont">
                 To be notified when ZetaForge™ is publically available, and for
                 development updates, <a
-                    href="https://www.google.com"
+                    href="https://forms.gle/mspGN31ZBuKY98Kx9"
                     target="_blank"
                     ><span class="text-indigo-400 headerFont"
                         >subscribe to the newsletter &rarr;</span
@@ -180,7 +182,7 @@
             </p>
         </div>
     </section>
-    <section
+    <section id="about"
         class="flex flex-col py-6 sm:py-10 md:py-14 gap-14 sm:gap-16 md:gap-20"
     >
         <div class="flex flex-col gap-8 sm:gap-10">
@@ -260,11 +262,13 @@
             {/each}
         </div>
     </section>
-    <button
-        class="px-5 py-3 sm:px-6 sm:py-4 md:px-8 relative group text-lg sm:text-xl mx-auto  bg-indigo-800 hover:bg-indigo-900 duration-200"
+    <a
+        href="https://forms.gle/mspGN31ZBuKY98Kx9"
+        target="_blank"
+        class="px-5 py-3 sm:px-6 sm:py-4 md:px-8 relative group text-lg sm:text-xl mx-auto bg-indigo-800 hover:bg-indigo-900 duration-200"
     >
         <p class="headerFont">Get started today</p>
-    </button>
+    </a>
 </main>
 
 <svelte:head />
