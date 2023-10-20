@@ -32,10 +32,10 @@
             descriptors: [
                 "Detect anomalies in videos",
                 "Monitor telegram",
-                "Recognize targets",
+                "Recognize objects",
                 "Analyze sonar",
                 "Voice authentication",
-                "Detect troop movements",
+                "Detect strategies",
                 "GPT-4 applications",
                 "Translate text",
                 "Analyze language",
@@ -89,7 +89,7 @@
             >
                 ZetaForge™ is a <mark class="text-white bg-indigo-600"
                     >AI platform</mark
-                > for rapid development and deployment of advanced safe AI solutions
+                > for rapid development and deployment of advanced safe AI solutions.
             </p>
             <a
                 href="https://forms.gle/8dJpYFuLABwpJiWYA"
@@ -171,7 +171,7 @@
         </div>
         <div class="mx-auto text-center">
             <p class="opacity-80 italic headerFont">
-                To be notified when ZetaForge™ is publically available, and for
+                To be notified when ZetaForge™ is publicly available, and for
                 development updates, <a
                     href="https://forms.gle/8dJpYFuLABwpJiWYA"
                     target="_blank"
@@ -182,7 +182,8 @@
             </p>
         </div>
     </section>
-    <section id="about"
+    <section
+        id="about"
         class="flex flex-col py-6 sm:py-10 md:py-14 gap-14 sm:gap-16 md:gap-20"
     >
         <div class="flex flex-col gap-8 sm:gap-10">
@@ -271,4 +272,12 @@
     </a>
 </main>
 
-<svelte:head />
+<svelte:head>
+    <title>Zetaforge</title>
+    <meta
+        name="description"
+        content="Effortlessly construct advanced AI pipelines by seamlessly
+        connecting drag-and-drop, containerized code blocks,
+        ensuring a smooth and efficient development experience."
+    />
+</svelte:head>
